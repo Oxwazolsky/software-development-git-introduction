@@ -17,6 +17,5 @@ Repository ini dibuat untuk mempelajari dasar penggunaan Git dan GitHub dalam pe
 
 ## Struktur Repository
 software-development-git-introduction
-│
-├── README.md
-└── perkenalan.md
+── README.md
+── perkenalan.md
